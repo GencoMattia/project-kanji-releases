@@ -2,6 +2,14 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.4.2] - 2026-11-24
+
+### Modificato
+- Quando sbagli due volte lo stesso tratto vedi come si scrive quel tratto,
+  come prima. Se succede su due tratti diversi dello stesso kanji, compare la
+  guida completa fino alla fine del kanji, e la volta dopo ritrovi la traccia
+  da ricalcare.
+
 ## [0.4.1] - 2026-11-24
 
 ### Modificato
