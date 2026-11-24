@@ -10,7 +10,7 @@ da GitHub Actions: non modificarle a mano.
 2. Aprilo e consenti l'installazione da questa sorgente quando Android lo chiede.
 
 Dopo la prima installazione, l'app controlla da sola se ci sono versioni nuove
-e le propone all'apertura. Le novità di ogni versione sono nelle note della release.
+e le propone all'apertura. Le novità di ogni versione sono in [CHANGELOG.md](CHANGELOG.md) e nelle note di ogni release.
 
 ## Dati e licenze
 L'app contiene dati di KanjiVG (CC BY-SA 3.0), KANJIDIC2 e JMdict
