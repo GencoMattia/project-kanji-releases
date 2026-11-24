@@ -2,6 +2,13 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.4.3] - 2026-11-24
+
+### Corretto
+- Quando la traccia è visibile (la prima volta o con Ricalco) parte
+  l'animazione d'esempio con ordine e direzione dei tratti, e col pulsante
+  "Esempio" puoi rivederla.
+
 ## [0.4.2] - 2026-11-24
 
 ### Modificato
