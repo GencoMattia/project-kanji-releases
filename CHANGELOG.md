@@ -2,6 +2,15 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.4.1] - 2026-11-24
+
+### Modificato
+- Nella scrittura la traccia da ricalcare si vede solo la prima volta che
+  scrivi un kanji (o un kana dentro una parola); dopo sparisce da sola, così
+  devi ricordarlo. Il suggerimento animato dopo due errori sullo stesso tratto
+  resta. In Ricalco/Memoria puoi comunque cambiare a mano, e nelle
+  impostazioni scegli "Solo la prima volta", "Sempre" o "Mai".
+
 ## [0.4.0] - 2026-11-24
 
 ### Aggiunto
