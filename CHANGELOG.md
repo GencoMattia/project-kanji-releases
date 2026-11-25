@@ -2,6 +2,13 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.4.4] - 2026-11-25
+
+### Modificato
+- Il pulsante "Esempio" è sempre disponibile durante la scrittura: puoi rivedere
+  ordine e direzione dei tratti di qualsiasi kanji, anche quando la traccia è
+  già sparita.
+
 ## [0.4.3] - 2026-11-24
 
 ### Corretto
