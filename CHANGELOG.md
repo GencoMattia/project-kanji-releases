@@ -2,6 +2,36 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.5.0] - 2026-11-25
+
+### Aggiunto
+- Ripasso di oggi: in home trovi cosa ripassare oggi e alcuni kanji nuovi
+  (5 al giorno, si cambia nelle impostazioni). L'app ti ripropone ogni kanji e
+  parola quando stai per dimenticarlo: all'inizio dopo pochi giorni, poi dopo
+  settimane e mesi. Scrittura, lettura e significato hanno ciascuno il proprio
+  ritmo.
+- Livelli di ogni kanji e parola: Visto, In apprendimento, Superficiale,
+  Medio, Imparato. Dipendono da quanto a lungo l'app stima che lo ricorderai,
+  non da quante volte l'hai ripetuto. Un errore può farlo scendere.
+- Statistiche: giorni di fila, risposte al giorno, quanto ricordi nei ripassi,
+  livelli di kanji e parole, record personali e traguardi.
+- Record di velocità per ogni kanji, che vale solo se lo scrivi a memoria
+  senza errori né aiuti; record di precisione e di perfetti di fila alla fine
+  della pratica.
+
+### Modificato
+- La griglia dei kanji e le liste mostrano il livello di ogni elemento con un
+  colore, dal più tenue al verde di "Imparato". Al posto del contatore degli
+  imparati c'è una barra divisa per livello.
+- Nella scrittura, la prima volta con la traccia non conta come ripasso. Se
+  compare la guida completa, usi un aiuto, guardi l'esempio o fai 3 o più
+  errori, il kanji conta come non ricordato e torna presto.
+
+### Corretto
+- Se scegli Ricalco o Memoria a mano, la scelta vale solo per quel kanji: col
+  successivo, se non l'hai mai scritto, tornano la traccia e l'animazione
+  d'esempio.
+
 ## [0.4.4] - 2026-11-25
 
 ### Modificato
