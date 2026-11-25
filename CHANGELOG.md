@@ -2,6 +2,55 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.6.0] - 2026-11-25
+
+### Aggiunto
+- Nuovo aspetto "a inchiostro" su tutti i temi: riquadri con il contorno a
+  pennello e l'ombra netta, titoli in kanji scritti a pennello, kanji in stile
+  da quaderno giapponese e la grana della carta washi sullo sfondo (si spegne
+  in Altro).
+- Barra in basso con quattro schede: Oggi (solo cosa fare adesso), Studia
+  (tutti i gruppi, una categoria alla volta), Progressi (numeri, sigilli e
+  inchiostri) e Altro (impostazioni).
+- Giorni di fila in primo piano, dentro un ensō, con la settimana giorno per
+  giorno. I giorni di riposo del tuo piano non interrompono la serie.
+- Sigilli: i traguardi diventano timbri hanko, con alcuni nuovi e giocosi
+  (Primo tratto, Mano ferma, Gufo, Allodola, Di nuovo qui). Quando ne ottieni
+  uno, compare a tutta pagina a fine esercizio.
+- Inchiostri del pennello: 30, 100 e 365 giorni di fila sbloccano i tratti in
+  rosso shu, blu ai e oro. Si scelgono in Progressi.
+- Nuova icona dell'app: un ensō con il sigillo 書. Sui telefoni che lo
+  supportano si adatta anche alle icone a tema.
+- Piano di studio: scegli cosa studiare (solo kanji, solo vocaboli o
+  entrambi, con la proporzione), l'ordine e il gruppo da cui partire, le tue
+  liste da fare per prime, gli esercizi per i kanji e per i vocaboli, quanti
+  nuovi al giorno, un limite ai ripassi, la lunghezza delle sessioni e i giorni
+  della settimana in cui studi. Tre ritmi pronti (Leggero, Regolare, Intenso)
+  come punto di partenza, e una stima di quando finisci il gruppo in corso.
+- Con "Entrambi", una parola arriva solo quando hai già incontrato i suoi
+  kanji (si può disattivare).
+- Promemoria: una notifica all'ora che scegli, nei giorni di studio, con
+  quanti ripassi e nuovi ti aspettano. Se hai già finito il ripasso del giorno
+  non arriva.
+
+### Modificato
+- I livelli dei kanji sono ora sfumature d'inchiostro: più lo conosci, più la
+  tessera è scura. Si distinguono anche senza vedere i colori. Quelli
+  imparati hanno un hanamaru, il fiore che i maestri giapponesi disegnano sui
+  compiti fatti bene.
+- Nei gruppi i pulsanti sono Scrivi, Leggi e Mescola; la legenda dei livelli
+  è dietro il pulsante (i).
+- Il tema Washi si chiama ora Sumi; i colori di tutti i temi sono stati
+  rivisti perché ogni testo resti leggibile.
+- Le statistiche sono in Progressi, alla voce "Grafici, livelli e record".
+- Le scelte del ripasso di oggi sono passate dalle impostazioni al piano di
+  studio, che si apre anche da Oggi. Le scelte fatte finora restano.
+
+### Rimosso
+- La sezione "In arrivo" in fondo alla home: il ripasso che annunciava è
+  arrivato con la 0.5.0.
+- La pagina a parte del ripasso di oggi: si comincia direttamente da Oggi.
+
 ## [0.5.0] - 2026-11-25
 
 ### Aggiunto
