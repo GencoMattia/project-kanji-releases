@@ -2,6 +2,13 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.6.1] - 2026-11-25
+
+### Corretto
+- Le barre di avanzamento dei gruppi si leggono a colpo d'occhio: i kanji
+  iniziati hanno un tono pieno e ben visibile su ogni tema, gli imparati sono
+  in inchiostro pieno. Prima i kanji appena visti erano quasi invisibili.
+
 ## [0.6.0] - 2026-11-25
 
 ### Aggiunto
