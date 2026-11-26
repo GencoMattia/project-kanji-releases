@@ -2,6 +2,14 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.7.1] - 2026-11-26
+
+### Corretto
+- La carta washi sullo sfondo ora si vede: la grana e le fibre erano quasi
+  trasparenti (2-6% di opacità) e sparivano sullo schermo. Ora sono
+  leggibili ma discrete, in tutte le palette, chiare e scure; le carte, la
+  barra in basso e il pad restano lisci.
+
 ## [0.7.0] - 2026-11-26
 
 ### Aggiunto
