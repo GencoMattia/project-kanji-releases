@@ -2,6 +2,30 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.8.1] - 2026-11-26
+
+### Aggiunto
+- Un tema nuovo, Dab: nuvole morbide, cielo azzurro e rosa.
+
+### Cambiato
+- Altro e Piano di studio sono più ordinati: ogni gruppo di impostazioni ha la
+  sua carta con un titolo, i testi hanno una gerarchia più chiara e le
+  opzioni che dipendono da un'altra stanno in un riquadro sotto di essa.
+  Lettura raccoglie lo stile delle letture e i suoi esercizi; la difficoltà
+  sta in Scrittura.
+- La previsione del piano è divisa in righe (oggi e un gruppo per set) con il
+  numero in evidenza.
+- I giorni di studio mostrano il nome del giorno; quelli di riposo sono
+  tratteggiati, con 休.
+- I chip scelti hanno un cerchio a pennello al posto della spunta.
+
+### Corretto
+- Nel Piano di studio e nei filtri, le scelte attive (esercizi, giorni,
+  liste) avevano il testo nero su fondo nero: ora si leggono in tutti i temi.
+- Con la carta washi accesa l'app andava a scatti: lo sfondo veniva
+  ridisegnato a ogni movimento della schermata. Ora è un'immagine calcolata
+  una volta e tenuta in un livello a parte, che non si ridisegna.
+
 ## [0.8.0] - 2026-11-26
 
 ### Aggiunto
