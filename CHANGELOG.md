@@ -2,6 +2,31 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.8.0] - 2026-11-26
+
+### Aggiunto
+- In prova: scrittura nelle frasi. Si accende in Altro → Funzioni in prova e
+  poi si apre da Studia. Non cambia niente del ripasso a intervalli: le frasi
+  non creano schede e non spostano scadenze.
+- Parole nelle frasi: scrivi a mano i kanji di una parola che stai studiando
+  dentro una delle sue frasi d'esempio, con il significato, la lettura e la
+  traduzione come aiuto. Si apre anche dalla scheda della parola.
+- Frase intera: quando hai studiato tutti i kanji di una frase (la loro
+  scrittura è almeno "In apprendimento"), la frase si sblocca e la scrivi
+  carattere per carattere. Ogni carattere finito vola al suo posto nella
+  frase; alla fine la frase compare con il furigana e la voce la legge, se una
+  persona ne ha controllato le letture. Di base scrivi solo i kanji: con
+  "Scrivi anche i kana" scrivi ogni carattere.
+- Il numero di frasi sbloccate, un avviso a fine ripasso quando ne sblocchi di
+  nuove, un quaderno con le frasi scritte con i tuoi tratti e quattro sigilli
+  per le frasi.
+- 844 frasi d'esempio in più, con soli kanji N5 e N4, per avere frasi da
+  scrivere già all'inizio.
+
+### Corretto
+- La carta washi sullo sfondo non compariva su alcuni telefoni: ora la grana
+  è disegnata in modo più semplice e compatibile, e dovrebbe vedersi ovunque.
+
 ## [0.7.1] - 2026-11-26
 
 ### Corretto
