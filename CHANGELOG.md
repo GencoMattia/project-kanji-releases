@@ -2,6 +2,34 @@
 
 Cosa cambia in ogni versione di Kakō, dalla più recente.
 
+## [0.7.0] - 2026-11-26
+
+### Aggiunto
+- Nella scheda dei kanji c'è la sezione "Composizione": le parti di cui è
+  fatto, disegnate dentro il kanji, con il loro significato. Le forme dei
+  radicali (氵, 亻, 艹…) mostrano il kanji da cui vengono e il suo significato.
+  Tocca una parte per aprire la sua scheda.
+- Indizio per la lettura: quando una parte si legge come il kanji intero
+  (校 contiene 交, entrambi コウ), la scheda lo dice.
+- Origine di circa 1.600 kanji: pittogramma, segno astratto, unione di
+  significati o parte del significato più parte del suono, con le parti in
+  gioco. Compare solo dove Wiktionary in inglese e in giapponese concordano;
+  per le forme semplificate (国 da 國) racconta la storia della forma
+  tradizionale.
+- L'app parla anche inglese, in tutta l'interfaccia: schermate, notifiche,
+  sigilli e piano di studio. La prima volta che la apri ti chiede la lingua
+  (è già scelta quella del telefono; se non è l'italiano, è l'inglese) e
+  puoi cambiarla in Altro. I progressi non cambiano. Le note delle versioni
+  restano in italiano.
+- Frasi d'esempio: nella scheda di una parola compaiono fino a tre frasi che
+  mostrano come si usa, con la traduzione inglese. Vengono da Tatoeba e sono
+  solo quelle segnate come buoni esempi controllati. Quando una persona ha
+  controllato le letture, la frase ha il furigana e si può ascoltare.
+- In Studia → Vocaboli ci sono le frasi per livello, da N5 a N1: leggi la
+  frase, prova a capirla e poi guarda la traduzione. Il livello è una stima
+  dalle liste JLPT dei vocaboli e non tiene conto della grammatica; le frasi
+  senza un livello sicuro restano solo nella scheda delle parole.
+
 ## [0.6.1] - 2026-11-25
 
 ### Corretto
